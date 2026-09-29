@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    //variables
+    int counter = 0;
+
+    while(counter < 8){
+     printf("*");
+    counter++;
+
+    }
+
+    return 0;
+}
